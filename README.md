@@ -1,3 +1,3 @@
 # ParamFancyTech
 
-x = dark
+x = light
